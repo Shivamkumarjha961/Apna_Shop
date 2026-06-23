@@ -1,0 +1,25 @@
+# Logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+**/node_modules/
+
+# Build outputs
+**/dist/
+**/dist-ssr/
+
+# Local env files
+**/.env
+**/.env.local
+**/.env.*.local
+
+# Editor files
+.vscode/
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
