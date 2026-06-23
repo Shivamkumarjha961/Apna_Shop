@@ -3,7 +3,7 @@ services:
     name: apna-shop-backend
     env: node
     plan: free
-    rootDir: Apna-Shop/Apna-shop-backend
+    rootDir: Apna-shop-backend
     buildCommand: npm install
     startCommand: npm start
     envVars:
